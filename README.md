@@ -1,7 +1,7 @@
-<h1 align="center">👋 Hi, I'm [HAITAM]</h1>
+<h1 align="center">👋 Hi, I'm HAITAM </h1>
 
 <p align="center">
-  🚀 Junior Front-End Developer | ALX [Program Name] Learner | Passionate about Building Clean & Functional Web Apps  
+  🚀 Hi, I’m HAITAM, a Junior Front-End Developer passionate about creating user-friendly, responsive, and accessible web applications.  
 </p>
 
 ---
@@ -27,11 +27,9 @@ To grow into a **skilled software engineer**, contributing to open-source, colla
 
 ---
 
-## 📌 Featured Projects  
-🔹 [**Project Name**](#) – *Short description of what it does, why you built it, and how to run it.*  
-🔹 [**Another Project**](#) – *Highlight what makes it unique or what you learned.*  
 
-👉 Check out more of my projects [here](https://github.com/YourUsername?tab=repositories).  
+
+👉 Check out more of my projects https://github.com/haytam-lahna.  
 
 ---
 
@@ -45,7 +43,7 @@ To grow into a **skilled software engineer**, contributing to open-source, colla
 
 ## 📫 Let's Connect!  
 - 💼 LinkedIn: [https://www.linkedin.com/in/haitam-lahna-9b9841187?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](#)  
-- 📧 Email: [haytamlahna@gmail.com](mailto:your@email.com)  
+- 📧 Email: [haytamlahna99@outlook.fr](mailto:your@email.com)  
 
 ---
 
