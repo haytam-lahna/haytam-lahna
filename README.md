@@ -27,17 +27,7 @@ To grow into a **skilled software engineer**, contributing to open-source, colla
 
 ---
 
-
-
 👉 Check out more of my projects https://github.com/haytam-lahna.  
-
----
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
-</p>
 
 ---
 
