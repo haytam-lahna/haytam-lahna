@@ -32,7 +32,7 @@ To grow into a **skilled software engineer**, contributing to open-source, colla
 ---
 
 ## 📫 Let's Connect!  
-- 💼 LinkedIn: [https://www.linkedin.com/in/haitam-lahna-9b9841187?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](#)  
+- 💼 LinkedIn: [https://www.linkedin.com/in/haitam-lahna10](#)  
 - 📧 Email: [haytamlahna99@outlook.fr](mailto:your@email.com)  
 
 ---
